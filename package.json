@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ericktorres1/FriendFinder/issues"
   },
-  "homepage": "https://github.com/ericktorres1/FriendFinder#readme"
+  "homepage": "https://github.com/ericktorres1/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
